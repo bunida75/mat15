@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\mat15\bin\Debug\net6.0\mat15.exe
+C:\Users\Administrator\Desktop\mat15\bin\Debug\net6.0\mat15.deps.json
+C:\Users\Administrator\Desktop\mat15\bin\Debug\net6.0\mat15.runtimeconfig.json
+C:\Users\Administrator\Desktop\mat15\bin\Debug\net6.0\mat15.dll
+C:\Users\Administrator\Desktop\mat15\bin\Debug\net6.0\mat15.pdb
+C:\Users\Administrator\Desktop\mat15\obj\Debug\net6.0\mat15.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\mat15\obj\Debug\net6.0\mat15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\mat15\obj\Debug\net6.0\mat15.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\mat15\obj\Debug\net6.0\mat15.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\mat15\obj\Debug\net6.0\mat15.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\mat15\obj\Debug\net6.0\mat15.dll
+C:\Users\Administrator\Desktop\mat15\obj\Debug\net6.0\refint\mat15.dll
+C:\Users\Administrator\Desktop\mat15\obj\Debug\net6.0\mat15.pdb
+C:\Users\Administrator\Desktop\mat15\obj\Debug\net6.0\mat15.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\mat15\obj\Debug\net6.0\ref\mat15.dll
